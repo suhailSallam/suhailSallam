@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suhailSallam
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on Android Development
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently Developing Data Science and Machine learning Projects
+- 💞️ I’m looking to collaborate on Data Science and Machine learning
 - 📫 How to reach me suhail.sallam@gmail.com
 
 <!---
